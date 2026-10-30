@@ -1,0 +1,3 @@
+import math
+a=float(input())
+print(f"{int(a*100)/100:.2f}")
